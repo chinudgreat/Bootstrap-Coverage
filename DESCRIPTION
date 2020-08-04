@@ -1,0 +1,13 @@
+Package: BootstrapCover
+Type: Package
+Title: Manual Bootstrapping Coverages
+Version: 0.1.0
+Author: Chinmay Divekar
+Maintainer: Chinmay Divekar <chinudgreat@gmail.com>
+Description: This package creates bootstrap sample and gives coverages
+License: No liscense
+LazyData: FALSE
+Imports: 
+  stats
+Suggests:
+  knitr
